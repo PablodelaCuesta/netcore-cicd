@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wVT1nnDSQ40guqpHLiDNgcLQTUKOY50Fp6CdCfqk4ma4Zkrz7pZwyUzE9h2JkfFT5d3u9hCl9l91lK8PRK6Tzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pablo\\source\\repos\\learning\\cicd\\jenkins\\netcore-cicd\\netcore-cicd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pablo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
